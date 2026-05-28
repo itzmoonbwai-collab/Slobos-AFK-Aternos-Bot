@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "FarLandsSMP-2Fxc.aternos.me:58604",
+    "ip": "FarLandsSMP-2Fxc.aternos.me",
     "port": 58604,
-    "version": "",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
